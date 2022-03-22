@@ -1,0 +1,6 @@
+com\mavenseleniumproj\CommonUtils\TestSteps.class
+com\mavenseleniumproj\pages\Dashboardpage.class
+com\mavenseleniumproj\pages\Loginpage.class
+com\mavenseleniumproj\pages\Searchpage.class
+com\mavenseleniumproj\CommonUtils\configUtil.class
+com\mavenseleniumproj\CommonUtils\Libraries.class

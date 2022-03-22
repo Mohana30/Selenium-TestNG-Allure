@@ -1,0 +1,1 @@
+{"uuid":"03439e6b-60bb-496a-8d4d-ec5bbe5920e0","name":"com.mavenseleniumproj.tests.DashboardTest","children":["df9e0d24-bf3d-4149-ad25-e2c139973c1c"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647969480333,"stop":1647969481194}],"start":1647969466395,"stop":1647969481337}
